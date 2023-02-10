@@ -1,13 +1,13 @@
 {
   "name": "@sanghshreem/react-component-governance-library-new",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/component-governance-library-new"
+    "registry": "https://npm.pkg.github.com/SanghshreeM"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SanghshreeM/react-component-governance-library-new"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "clean": "rimraf dist",
